@@ -1,0 +1,8 @@
+.titlePart {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  border-top: 1px solid var(--borderColor); 
+  padding-top: 10px;
+}

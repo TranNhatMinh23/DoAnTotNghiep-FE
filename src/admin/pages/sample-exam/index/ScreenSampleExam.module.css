@@ -1,0 +1,11 @@
+.topTable {
+  margin-bottom: 10px;
+}
+.btnAddNew {
+  margin-bottom: 10px;
+  color: var(--greenColor) !important;
+  border-color: var(--greenColor) !important;
+}
+.btnAddNew:hover, .btnAddNew:active, .btnAddNew:focus {
+  border-color: var(--greenColor) !important;
+}

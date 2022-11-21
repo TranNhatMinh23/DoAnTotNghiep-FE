@@ -1,0 +1,11 @@
+.content {
+  min-height: 400px;
+}
+.widgetContent>p {
+  font-size: 22px;
+  font-weight: 500;
+  border-bottom: 2px solid var(--widgetColor);
+}
+.widgetContent>p>i {
+  margin-right: 5px; 
+}

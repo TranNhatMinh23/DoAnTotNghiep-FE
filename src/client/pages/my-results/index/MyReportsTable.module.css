@@ -1,0 +1,26 @@
+.widgetTable {
+  margin-top: 10px;
+}
+.headerTableWidget {
+  display: flex;
+  align-self: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.titleTable {
+  font-weight: 500;
+  font-size: 18px; 
+  margin-bottom: 0;
+}
+.borderTopTable {
+  border-top: 2px solid var(--grayWhiteColor);
+  padding-top: 15px;
+}
+.iconEye {
+  font-size: 20px;
+}
+.iconRedo {
+  font-size: 19px;
+  margin-left: 10px;
+  color: var(--dimgrayColor) !important;
+}

@@ -1,0 +1,14 @@
+.mainMenu {
+  text-align: right;
+  border: none !important;
+}
+.mainMenu a, .mainMenu span {
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+@media (max-width: 767px){
+  .mainMenu {
+    text-align: center;
+  }
+}

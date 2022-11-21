@@ -1,0 +1,9 @@
+.groupBtnUploadImage {
+  display: inline-block;
+}
+.groupBtnUploadImage label {
+  margin-right: 10px;
+}
+.groupBtnUploadImage button {
+  margin-right: 15px;
+}

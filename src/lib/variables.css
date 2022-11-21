@@ -1,0 +1,36 @@
+:root {
+  --primaryColor: #3C80C1;
+  --blackColor: #000000;
+  --black2Color: #252222;
+  --whiteColor: #ffffffff;
+  --redColor: #ed3833;
+  --greenColor: #008000;
+  --greenBtnColor: #389e0d;
+  --limgreenColor:	#32CD32;
+  --seagreenColor: #2E8B57;
+  --limegreenColor: #056838;
+  --tealColor: #008080;
+  --blueColor: #0000FF;
+  --hoverLinkColor: #40a9ff;
+  --indigoColor: 	#000044;
+  --grayColor: #808080;
+  --dimgrayColor: #696969;
+  --grayWhiteColor: #eeeeeeee;
+  --yellowColor: #f2ff42;
+  --orangeColor: #ffa500;
+  --backgroundColor: #f0f2f5;
+  --iconInnerInputColor: rgba(0,0,0,.25);
+  --widgetColor: #E1E1E1;
+  --brownColor: #ccc;
+  --brownLightColor: #dee2e6;
+  --blueSkypeColor: #D1EEFB;
+  --borderColor: #eee;
+  --textColor: rgb(0, 128, 128);
+  --greenNotifyColor: #00ad09;
+  --titleColor: #253b80;
+  --textInFormColor: rgba(0, 0, 0, 0.65);
+  --linkColor: #1890ff;
+  --expiredColor: #F43137;
+  --isCommingColor: #42BDD3;
+  --isRunningColor: #2EAA57;
+}

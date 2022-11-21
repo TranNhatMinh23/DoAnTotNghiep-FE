@@ -1,0 +1,17 @@
+.tableDetailScoreMapping {
+  margin-top: 20px;
+  clear: both;
+}
+.btnUpdateScore {
+  position: relative;
+  top: -10px;
+}
+.btnImportScoreFile {
+  position: relative;
+  top: -10px;
+  margin-right: 10px;
+}
+.btnImportScoreFile label {
+  margin-bottom: 0;
+  cursor: pointer;
+}

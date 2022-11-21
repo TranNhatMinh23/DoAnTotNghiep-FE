@@ -1,0 +1,80 @@
+.itemExamPractice {
+  margin-bottom: 30px;
+}
+.cardItem:hover {
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  transform: translateY(-5px);
+}
+.cardItem:hover img{
+  opacity: 0.7;
+}
+.cardItem {
+  max-height: 450px;
+}
+@media screen and (min-width: 576px) and (max-width: 767px){
+  .cardItem {
+    max-height: 500px;
+  }
+}
+.cardItem img {
+  height: 180px;
+}
+.titleExamPractice {
+  font-weight: 500;
+  font-size: 17px;
+  margin: 5px 0;
+  /* max-height: 50px; */
+  overflow: hidden;
+}
+.descriptionExam {
+  font-size: 14px;
+  max-height: 85px;
+  overflow: hidden;
+} 
+.posted { 
+  font-size: 14px;
+  margin-top: 5px;
+  margin-bottom: 7px;
+}
+.posted b {
+  font-weight: 500;
+  margin-left: 5px;
+}
+.fromToDate>span{
+  margin: 0 5px;
+  font-weight: 500;
+}
+.btnTakeTest { 
+  background: var(--isRunningColor) !important;
+  color: var(--whiteColor) !important;
+  margin-top: 10px !important;
+}
+.btnViewResult{  
+  margin-top: 10px !important; 
+  margin-left: 10px !important;
+}
+.btnStopExam {
+  background: var(--redColor) !important;
+  color: var(--whiteColor) !important;
+  margin-top: 10px !important;
+  border-radius: 4px !important;
+}
+@media (max-width: 767px) {
+  .cardItem img {
+    height: 230px;
+  }
+}
+.isCommingExam {
+  background-color: var(--isCommingColor) !important;
+  color: var(--whiteColor) !important;
+  margin-top: 10px !important;
+  border-radius: 4px !important;
+}
+.expiredColor {
+  background-color: var(--expiredColor) !important;
+  color: var(--whiteColor) !important;
+  margin-top: 10px !important;
+  border-radius: 4px !important;
+  border: 1px solid var(--expiredColor);
+}

@@ -1,0 +1,8 @@
+.ItemAnswer {
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+.correct {
+  color: var(--limgreenColor);
+  font-weight: 500;
+}

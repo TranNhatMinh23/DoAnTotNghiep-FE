@@ -1,0 +1,11 @@
+.table { 
+  clear: both;
+} 
+.note {
+  margin-bottom: 5px;
+  margin-left: 10px;
+  text-transform: lowercase;
+} 
+.note .stopIcon {
+  margin-left: 20px;
+}

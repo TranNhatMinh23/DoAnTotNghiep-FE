@@ -1,0 +1,13 @@
+.titleAddUserForm span {
+  font-weight: 500;
+  font-size: 17px;
+  margin-left: 10px;
+}
+.addUserForm {
+  padding: 0 20px 20px !important;
+}
+.displayErrMessage {
+  text-align: center;
+  color: var(--redColor);
+  font-size: 14px;
+}

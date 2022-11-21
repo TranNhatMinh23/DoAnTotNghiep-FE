@@ -1,0 +1,25 @@
+.contentPreviewExam {
+  margin-top: 10px;
+}
+.leftContentWithStartBtn  {
+  text-align: center;
+}
+.leftContentWithStartBtn i {
+  font-size: 160px;
+  color: var(--blueSkypeColor);
+  margin-bottom: 25px;
+}
+.btnTakeTest {
+  background: var(--greenBtnColor) !important;
+  opacity: 0.8;
+  color: var(--whiteColor) !important;
+}
+@media (max-width: 767px) {
+  .rightContent {
+    text-align: center;
+    margin: 30px 0;
+  }
+  .rightContent ul {
+    list-style: none;
+  }
+}

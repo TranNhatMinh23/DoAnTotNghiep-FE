@@ -1,0 +1,325 @@
+{
+  "data": [
+    {
+			"question_no": 71,
+			"question_text": "What type of product is the speaker mainly discussing?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Refrigerators",
+				"position_2": "Laptops",
+				"position_3": "Swimsuits",
+				"position_4": "Teas"
+			}
+    },
+    {
+			"question_no": 72,
+			"question_text": "Why is the speaker pleased?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Packaging has been improved.",
+				"position_2": "A deadline has been extended.",
+				"position_3": "Sales have increased",
+				"position_4": "A budget was approved"
+			}
+    },
+    {
+			"question_no": 73,
+			"question_text": "What would the speaker like to do?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Give the sales team a bonus",
+				"position_2": "Purchase new equipment",
+				"position_3": "Survey some consumers",
+				"position_4": "Enter into a long-term contract"
+			}
+		},
+		{
+			"question_no": 74,
+			"question_text": "What does the speaker say are available by the door?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Flowers",
+				"position_2": "Coupons",
+				"position_3": "Umbrellas",
+				"position_4": "Guidebooks"
+			}
+    },{
+			"question_no": 75,
+			"question_text": "Why will the listeners visit a sculpture garden first?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "It is nearby.",
+				"position_2": "It closes soon.",
+				"position_3": "It is hosting an activity.",
+				"position_4": "It is a popular attraction."
+			}
+		},
+		{
+			"question_no": 76,
+			"question_text": "Why does the speaker say, 'I'll be eating at the Spruce Road Cafe'?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "To make a recommendation",
+				"position_2": "To volunteer for a task",
+				"position_3": "To ask for directions",
+				"position_4": "To explain a delay"
+			}
+		},
+		{
+			"question_no": 77,
+			"question_text": "What is the advertisement about?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "An art exhibition",
+				"position_2": "A Web site builder",
+				"position_3": "A smartphone",
+				"position_4": "A print shop"
+			}
+    },{
+			"question_no": 78,
+			"question_text": "According to the speaker, why will the listeners be surprised?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Shipping is free.",
+				"position_2": "Staff members are certified .",
+				"position_3": "A location is convenient.",
+				"position_4": "A product is easy to use."
+			}
+		},
+		{
+			"question_no": 79,
+			"question_text": "What does the speaker encourage the listeners to do?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Attend an event",
+				"position_2": "Sign up for a trial",
+				"position_3": "Make a phone call",
+				"position_4": "Read customer reviews"
+			}
+		},
+		{
+			"question_no": 80,
+			"question_text": "Where will the speaker go next Tuesday?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "To a store",
+				"position_2": "To a factory",
+				"position_3": "To a hotel",
+				"position_4": "To an airport"
+			}
+    },{
+			"question_no": 81,
+			"question_text": "Why will the speaker bring his laptop?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "To try out some new software",
+				"position_2": "To fix a technical problem",
+				"position_3": "To conduct a video conference",
+				"position_4": "To check competitors' prices"
+			}
+		},
+		{
+			"question_no": 82,
+			"question_text": "What does the speaker mean when he says, 'I don't think the traffic will be that bad'?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "He plans to drive",
+				"position_2": "He expects to arrive early.",
+				"position_3": "He does not need a map.",
+				"position_4": "He wants to postpone a departure time."
+			}
+		},
+		{
+			"question_no": 83,
+			"question_text": "What is Soonja Lee's profession?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Doctor",
+				"position_2": "Chef",
+				"position_3": "Farmer",
+				"position_4": "Teacher"
+			}
+    },{
+			"question_no": 84,
+			"question_text": "According to the speaker, what does Soonja Lee emphasize?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Eating healthy foods",
+				"position_2": "Practicing cooking skills",
+				"position_3": "Shopping locally",
+				"position_4": "Taking courses"
+			}
+		},
+		{
+			"question_no": 85,
+			"question_text": "Why should the listeners stay after the speech?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "To ask questions",
+				"position_2": "To enter a contest",
+				"position_3": "To see a demonstration",
+				"position_4": "To buy a book"
+			}
+		},
+		{
+			"question_no": 86,
+			"question_text": "What is the main topic of the talk?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "A vacation policy",
+				"position_2": "A new project",
+				"position_3": "A revised budget",
+				"position_4": "Some customer complaints"
+			}
+    },{
+			"question_no": 87,
+			"question_text": "Why does the speaker say, 'we'll be hiring a new programmer to provide support'?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "To reassure the listeners regarding a timeline",
+				"position_2": "To encourage the listeners to apply for a position",
+				"position_3": "To respond to customer feedback",
+				"position_4": "To suggest that more office space is needed"
+			}
+		},
+		{
+			"question_no": 88,
+			"question_text": "aaaWhat does the speaker ask the listeners  to do?aaaaa",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Change their passwords",
+				"position_2": "Call Human Resources",
+				"position_3": "Talk with Technical Support",
+				"position_4": "Update a calendar"
+			}
+		},
+		{
+			"question_no": 89,
+			"question_text": "Where does the speaker most likely work?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "At a construction site",
+				"position_2": "At a manufacturing plant",
+				"position_3": "At a landscaping company",
+				"position_4": "At a public transportation office"
+			}
+    },{
+			"question_no": 90,
+			"question_text": "What are the listeners instructed to wear?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Helmets",
+				"position_2": "Uniforms",
+				"position_3": "Safety glasses",
+				"position_4": "Ear protection"
+			}
+		},
+		{
+			"question_no": 91,
+			"question_text": "According to the speaker, what will the listeners do at ten o'clock?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Have a meal",
+				"position_2": "Conduct an inspection",
+				"position_3": "Attend a workshop",
+				"position_4": "Meet a supervisor"
+			}
+		},
+		{
+			"question_no": 92,
+			"question_text": "What type of business is the broadcast about?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "An energy company",
+				"position_2": "A real estate firm",
+				"position_3": "A travel agency",
+				"position_4": "A film studio"
+			}
+    },{
+			"question_no": 93,
+			"question_text": "What will the business offer every Saturday?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Trip discounts",
+				"position_2": "Free consultations",
+				"position_3": "Training sessions",
+				"position_4": "Facility tours"
+			}
+		},
+		{
+			"question_no": 94,
+			"question_text": "According to the speaker, what can the listeners do at a library?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Register for an event",
+				"position_2": "Pick up a map",
+				"position_3": "Hear a talk",
+				"position_4": "Board a shuttle bus"
+			}
+		},
+		{
+			"question_no": 95,
+			"question_text": "Why does the speaker have to delay a trip?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "She has to renew her passport",
+				"position_2": "She wants to avoid bad weather",
+				"position_3": "She has to attend a work event",
+				"position_4": "She wants to get a cheaper ticket"
+			}
+    },{
+			"question_no": 96,
+			"question_text": "Look at the graphic. How much will the speaker pay for a flight?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "$280",
+				"position_2": "$375",
+				"position_3": "$310",
+				"position_4": "$345"
+			}
+		},
+		{
+			"question_no": 97,
+			"question_text": "What does the speaker ask the listener to do?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Check a schedule",
+				"position_2": "Recommend a hotel",
+				"position_3": "Send some documents",
+				"position_4": "Rent a car"
+			}
+		},
+		{
+			"question_no": 98,
+			"question_text": "What has the speaker's company recently done?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "It increased building security",
+				"position_2": "It started an internship program.",
+				"position_3": "It merged with another company",
+				"position_4": "It introduced a new logo"
+			}
+    },{
+			"question_no": 99,
+			"question_text": "Look at the graphic. Which badge design did the speaker choose?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Design 1",
+				"position_2": "Design 2",
+				"position_3": "Design 3",
+				"position_4": "Design 4"
+			}
+		},
+		{
+			"question_no": 100,
+			"question_text": "What should the listeners do by Friday?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Have their photos taken",
+				"position_2": "Post their resumes",
+				"position_3": "Call a maintenance worker",
+				"position_4": "Submit a payment"
+			}
+    }
+  ]
+}

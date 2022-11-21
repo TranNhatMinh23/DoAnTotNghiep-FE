@@ -1,0 +1,36 @@
+.content {
+  margin: 20px 0;
+}
+.contactWidget {
+  margin: 20px 0 40px;
+}
+.introduce p {
+  color: var(--primaryColor);
+  font-size: 25px;
+}
+.introduce ul {
+  padding-left: 0 !important;
+}
+.introduce li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+.introduce li i {
+  margin-right: 10px;
+  font-size: 20px;
+  color: var(--textColor);
+}
+.contactForm {
+  background: var(--backgroundColor);
+  padding: 20px;
+  border-radius: 10px;
+}
+.contactForm i {
+  color: var(--brownColor) !important;
+}
+.contactForm button {
+  float: right;
+}
+.contactForm button i{
+  color: var(--whiteColor) !important;
+}

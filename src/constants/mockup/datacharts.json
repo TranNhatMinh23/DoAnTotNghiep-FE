@@ -1,0 +1,97 @@
+{"data": [
+  {
+    "id":10,
+    "listening_score":410,
+    "reading_score":460,
+    "num_listening":80,
+    "num_reading":87,
+    "created_at":"2019-11-29 10:12:33",
+    "updated_at":"2019-11-29 10:12:34",
+    "exams":{"id":6,"name":"Bài thi kiểm tra năng lực Tiếng Anh cho thực tập sinh 02","description":"Bài thi nhằm đánh giá thực tập sinh","from_date":"2019-12-09 10:10:41","to_date":"2019-12-13 10:10:44"}
+  },
+  {
+    "id":9,
+    "listening_score":400,
+    "reading_score":420,
+    "num_listening":81,
+    "num_reading":83,
+    "created_at":"2019-11-29 09:56:37",
+    "updated_at":"2019-11-29 09:56:38",
+    "exams":{"id":5,"name":"Bài thi kiểm tra năng lực Tiếng Anh cho thực tập sinh 01","description":"Bài thi nhằm đánh giá thực tập sinh","from_date":"2019-12-02 09:31:40","to_date":"2019-12-06 09:31:51"}
+  },
+  {
+    "id":8,
+    "listening_score":360,
+    "reading_score":425,
+    "num_listening":99,
+    "num_reading":97,
+    "created_at":"2019-11-29 09:56:37",
+    "updated_at":"2019-11-29 09:56:38",
+    "exams":{"id":5,"name":"Bài thi kiểm tra năng lực Tiếng Anh cho thực tập sinh 01","description":"Bài thi nhằm đánh giá thực tập sinh","from_date":"2019-12-02 09:31:40","to_date":"2019-12-06 09:31:51"}
+  },
+  {
+    "id":7,
+    "listening_score":375,
+    "reading_score":425,
+    "num_listening":5,
+    "num_reading":0,
+    "created_at":"2019-11-27 22:06:20",
+    "updated_at":"2019-11-27 22:06:22",
+    "exams":{"id":3,"name":"Bài thi kiểm tra năng lực Tiếng Anh định kỳ cho nhân viên T11","description":"Sử dụng đề thi của hệ thống ","from_date":"2019-11-25 10:56:59","to_date":"2019-11-27 10:57:02"}
+  }
+  ,{
+    "id":6,
+    "listening_score":345,
+    "reading_score":300,
+    "num_listening":100,
+    "num_reading":22,
+    "created_at":"2019-11-27 22:05:22",
+    "updated_at":"2019-11-27 22:05:23",
+    "exams":{"id":2,"name":"Bài thi kiểm tra năng lực Tiếng Anh định kỳ cho nhân viên T9","description":"Bài thi định kỳ 2 tháng/lần","from_date":"2019-11-24 22:34:41","to_date":"2019-12-13 22:34:45"}
+  },{
+    "id":5,
+    "listening_score":325,
+    "reading_score":375,
+    "num_listening":100,
+    "num_reading":22,
+    "created_at":"2019-11-27 22:05:22",
+    "updated_at":"2019-11-27 22:05:23",
+    "exams":{"id":2,"name":"Bài thi kiểm tra năng lực Tiếng Anh định kỳ cho nhân viên T9","description":"Bài thi định kỳ 2 tháng/lần","from_date":"2019-11-24 22:34:41","to_date":"2019-12-13 22:34:45"}
+  },{
+    "id":4,
+    "listening_score":230,
+    "reading_score":350,
+    "num_listening":100,
+    "num_reading":22,
+    "created_at":"2019-11-27 22:05:22",
+    "updated_at":"2019-11-27 22:05:23",
+    "exams":{"id":2,"name":"Bài thi kiểm tra năng lực Tiếng Anh định kỳ cho nhân viên T9","description":"Bài thi định kỳ 2 tháng/lần","from_date":"2019-11-24 22:34:41","to_date":"2019-12-13 22:34:45"}
+  },{
+    "id":3,
+    "listening_score":300,
+    "reading_score":300,
+    "num_listening":100,
+    "num_reading":22,
+    "created_at":"2019-11-27 22:05:22",
+    "updated_at":"2019-11-27 22:05:23",
+    "exams":{"id":2,"name":"Bài thi kiểm tra năng lực Tiếng Anh định kỳ cho nhân viên T9","description":"Bài thi định kỳ 2 tháng/lần","from_date":"2019-11-24 22:34:41","to_date":"2019-12-13 22:34:45"}
+  },{
+    "id":2,
+    "listening_score":220,
+    "reading_score":300,
+    "num_listening":100,
+    "num_reading":22,
+    "created_at":"2019-11-27 22:05:22",
+    "updated_at":"2019-11-27 22:05:23",
+    "exams":{"id":2,"name":"Bài thi kiểm tra năng lực Tiếng Anh định kỳ cho nhân viên T9","description":"Bài thi định kỳ 2 tháng/lần","from_date":"2019-11-24 22:34:41","to_date":"2019-12-13 22:34:45"}
+  },{
+    "id":1,
+    "listening_score":200,
+    "reading_score":250,
+    "num_listening":100,
+    "num_reading":22,
+    "created_at":"2019-11-27 22:05:22",
+    "updated_at":"2019-11-27 22:05:23",
+    "exams":{"id":2,"name":"Bài thi kiểm tra năng lực Tiếng Anh định kỳ cho nhân viên T9","description":"Bài thi định kỳ 2 tháng/lần","from_date":"2019-11-24 22:34:41","to_date":"2019-12-13 22:34:45"}
+  }
+]}

@@ -1,0 +1,427 @@
+{
+	"data": [
+		{
+			"question_no": 32,
+			"question_text": "What did the woman purchase?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "A piano",
+				"position_2": "A refrigerator",
+				"position_3": "Some windows",
+				"position_4": "Some gardening tools"
+			}
+		},
+		{
+			"question_no": 33,
+			"question_text": "Why does the man apologize?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "He lost the woman's phone number.",
+				"position_2": "A coupon has expired.",
+				"position_3": "An item is out of stock.",
+				"position_4": "A delivery is delayed."
+			}
+    },
+    {
+			"question_no": 34,
+			"question_text": "What does the woman say she will do tomorrow morning?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Mail a contract",
+				"position_2": "Tour a model home",
+				"position_3": "Leave for vacation",
+				"position_4": "Look at samples"
+			}
+    },
+    {
+			"question_no": 35,
+			"question_text": "What are the speakers preparing for?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "A training session",
+				"position_2": "A board meeting",
+				"position_3": "A press conference",
+				"position_4": "A product demonstration"
+			}
+    },
+    {
+			"question_no": 36,
+			"question_text": "What problem does the woman mention?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Some presenters will be late.",
+				"position_2": "Some equipment is not working",
+				"position_3": "An event schedule is incorrect",
+				"position_4": "A meeting room is too small"
+			}
+    },
+    {
+			"question_no": 37,
+			"question_text": "What does the man say he will do?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "E-mail a coworker",
+				"position_2": "Hang up some posters",
+				"position_3": "Make an announcement",
+				"position_4": "Copy some documents"
+			}
+    },
+    {
+			"question_no": 38,
+			"question_text": "Where do the women work?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "At an advertising firm",
+				"position_2": "At a music studio",
+				"position_3": "At a manufacturing plant",
+				"position_4": "At a department store"
+			}
+    },
+    {
+			"question_no": 39,
+			"question_text": "What does the man say about a product?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "It comes in many colors.",
+				"position_2": "It has a warranty.",
+				"position_3": "It is made of quality materials.",
+				"position_4": "It is only available online."
+			}
+    },
+    {
+			"question_no": 40,
+			"question_text": "What does Helen recommend doing?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Increasing a budget",
+				"position_2": "Developing a timeline",
+				"position_3": "Checking some customer reviews",
+				"position_4": "Contacting some local suppliers"
+			}
+    },
+    {
+			"question_no": 41,
+			"question_text": "What kind of class is the woman interested in?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Dance",
+				"position_2": "Strength training",
+				"position_3": "Swimming",
+				"position_4": "Yoga"
+			}
+    },
+    {
+			"question_no": 42,
+			"question_text": "What does the man suggest the woman do?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Invite a friend to join her",
+				"position_2": "Try a free class",
+				"position_3": "Return at a later time",
+				"position_4": "Sign up for a membership"
+			}
+    },
+    {
+			"question_no": 43,
+			"question_text": "What special offer does the woman qualify for?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "A guest pass",
+				"position_2": "A student discount",
+				"position_3": "A private lesson",
+				"position_4": "A free water bottle"
+			}
+    },
+    {
+			"question_no": 44,
+			"question_text": "Where does the man work?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "At a hotel",
+				"position_2": "At a department store",
+				"position_3": "At a dentist's office",
+				"position_4": "At a bank"
+			}
+    },
+    {
+			"question_no": 45,
+			"question_text": "What does the woman say about a form?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "She would like her own copy",
+				"position_2": "She would prefer to access it online",
+				"position_3": "She needs it to be translated.",
+				"position_4": "She has already completed one"
+			}
+    },
+    {
+			"question_no": 46,
+			"question_text": "What will the woman do this afternoon?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Register for a workshop",
+				"position_2": "Meet a client for lunch",
+				"position_3": "Train some employees",
+				"position_4": "Tour a facility"
+			}
+    },
+    {
+			"question_no": 47,
+			"question_text": "Who most likely is the woman?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "An architect",
+				"position_2": "An interior decorator",
+				"position_3": "A property manager",
+				"position_4": "A city official"
+			}
+    },
+    {
+			"question_no": 48,
+			"question_text": "What are the men concerned about?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "The number of meeting rooms",
+				"position_2": "The amount of storage space",
+				"position_3": "The date of a deadline",
+				"position_4": "The size of a budget"
+			}
+    },
+    {
+			"question_no": 49,
+			"question_text": "What benefit does the woman mention?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Delivery service is available",
+				"position_2": "Transportation is inexpensive",
+				"position_3": "A building is in the city center",
+				"position_4": "A parking area is nearby."
+			}
+    },
+    {
+			"question_no": 50,
+			"question_text": "What type of business do the speakers work for?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "A fashion magazine",
+				"position_2": "A clothing manufacturer",
+				"position_3": "An employment agency",
+				"position_4": "An advertising agency"
+			}
+    },
+    {
+			"question_no": 51,
+			"question_text": "What does the man suggest doing?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Modifying a blueprint",
+				"position_2": "Opening a retail location",
+				"position_3": "Purchasing new equipment",
+				"position_4": "Hiring additional staff"
+			}
+    },
+    {
+			"question_no": 52,
+			"question_text": "What does the woman say she will do?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Read some e-mails",
+				"position_2": "Contact a supervisor",
+				"position_3": "Work overtime",
+				"position_4": "Increase prices"
+			}
+		},{
+			"question_no": 53,
+			"question_text": "Why is the man calling?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "To complain about a delay",
+				"position_2": "To interview for a job",
+				"position_3": "To interview for a job",
+				"position_4": "To confirm a management decision"
+			}
+    },
+    {
+			"question_no": 54,
+			"question_text": "What does the man imply when he says, 'I'm supposed to start my shift at noon?'",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "He cannot attend an event.",
+				"position_2": "He wants to end a conversation",
+				"position_3": "He needs some supplies immediately",
+				"position_4": "He was given the wrong assignment."
+			}
+    },
+    {
+			"question_no": 55,
+			"question_text": "What does the man say about a company's Web site?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "It is under construction",
+				"position_2": "It has a useful map",
+				"position_3": "A password is required to view it",
+				"position_4": "Some information on it is unclear"
+			}
+		},{
+			"question_no": 56,
+			"question_text": "Who most likely is the woman?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "A writer",
+				"position_2": "A musician",
+				"position_3": "A television show host",
+				"position_4": "A photographer"
+			}
+    },
+    {
+			"question_no": 57,
+			"question_text": "What does the man encourage the woman to do?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Update some contact information",
+				"position_2": "Review a project proposal",
+				"position_3": "Submit an invoice",
+				"position_4": "Interview for a position"
+			}
+    },
+    {
+			"question_no": 58,
+			"question_text": "What topic does the woman say she is interested in?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Landscape design",
+				"position_2": "Modern architecture",
+				"position_3": "Folk music",
+				"position_4": "Street artwork"
+			}
+		},{
+			"question_no": 59,
+			"question_text": "What event is being discussed?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "A company picnic",
+				"position_2": "A professional conference",
+				"position_3": "A grand opening",
+				"position_4": "An investors meeting"
+			}
+    },
+    {
+			"question_no": 60,
+			"question_text": "What does the man imply when he says, 'let me call his assistant'?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "He will volunteer to prepare a speech.",
+				"position_2": "He will find a new location.",
+				"position_3": "He will ask for a schedule change",
+				"position_4": "He will make a complaint"
+			}
+    },
+    {
+			"question_no": 61,
+			"question_text": "What does the woman say she will do?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Print out a map",
+				"position_2": "Confirm a catering order",
+				"position_3": "Clean some sports equipment",
+				"position_4": "Mail some invitations"
+			}
+		},{
+			"question_no": 62,
+			"question_text": "What business does the man most likely work in?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Electronics",
+				"position_2": "Clothing",
+				"position_3": "Gardening",
+				"position_4": "Cookware"
+			}
+    },
+    {
+			"question_no": 63,
+			"question_text": "Look at the graphic. Which booth will the man be assigned to?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Booth 1",
+				"position_2": "Booth 2",
+				"position_3": "Booth 3",
+				"position_4": "Booth 4"
+			}
+    },
+    {
+			"question_no": 64,
+			"question_text": "What does the woman say she will send to the man?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Admission tickets",
+				"position_2": "An identification badge",
+				"position_3": "A registration receipt",
+				"position_4": "A parking permit"
+			}
+		},{
+			"question_no": 65,
+			"question_text": "What product are the speakers discussing?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Kitchen appliances",
+				"position_2": "Children's shoes",
+				"position_3": "Photo editing software",
+				"position_4": "Gardening tools"
+			}
+    },
+    {
+			"question_no": 66,
+			"question_text": "Look at the graphic. Which brand does the woman mention?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Aloha",
+				"position_2": "Max",
+				"position_3": "Roan",
+				"position_4": "TyCo"
+			}
+    },
+    {
+			"question_no": 67,
+			"question_text": "What will the woman go get from her office?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Some samples",
+				"position_2": "Some data reports",
+				"position_3": "A key",
+				"position_4": "A resume"
+			}
+		},{
+			"question_no": 68,
+			"question_text": "What position is the company interviewing for?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Accountant",
+				"position_2": "Graphic designer",
+				"position_3": "Computer programmer",
+				"position_4": "Screenwriter"
+			}
+    },
+    {
+			"question_no": 69,
+			"question_text": "What does the woman ask about?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "What the job requirements are",
+				"position_2": "How many people applied",
+				"position_3": "Whether references are necessary",
+				"position_4": "Whether some equipment is ready"
+			}
+    },
+    {
+			"question_no": 70,
+			"question_text": "Look at the graphic. Which candidate is overseas?",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Tim Bartlett",
+				"position_2": "Brandy Miller",
+				"position_3": "Louisa Sanchez",
+				"position_4": "Ken Mori"
+			}
+		}
+	]
+}

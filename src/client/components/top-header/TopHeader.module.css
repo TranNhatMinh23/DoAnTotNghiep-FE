@@ -1,0 +1,66 @@
+.topHeader {
+  background-color: var(--limegreenColor);
+  color: var(--whiteColor);
+  font-size: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.topHeader a {
+  color: var(--whiteColor);
+}
+.topHeader ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0 !important;
+}
+ul.ulMenu li {
+  display: inline-block;
+  margin-right: 20px;
+}
+.ulMenu i {
+  margin-right: 5px;
+}
+.topRightHeader {
+  text-align: right;
+}
+.topRightHeader span {
+  cursor: pointer;
+}
+.topRightHeader span:hover {
+  color: var(--hoverLinkColor);
+}
+.topRightHeader span i{
+  margin-left: 5px;
+}
+.topRightHeader a{
+  margin: 0 10px;
+}
+.topRightHeader a i {
+  margin-right: 5px;
+}
+.detailMenuUser a{
+  display: inline-block !important;
+}
+.topLeftHeader .ulMenu {
+  padding-left: 15px;
+}
+@media (max-width: 767px) {
+  .topRightHeader, .topLeftHeader {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .topLeftHeader {
+    display: none !important;
+  }
+}
+.liFlagLanguage {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+.iconFlagLanguage {
+  cursor: pointer;
+  margin-right: -10px !important;
+  height: 20px;
+  width: 20px; 
+}

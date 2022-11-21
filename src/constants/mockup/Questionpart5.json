@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+			"question_no": 101,
+			"question_text": "Ms. Villanueva has extensive experience in corporate ------- and budgeting.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "financially",
+				"position_2": "financed",
+				"position_3": "financial",
+				"position_4": "finance"
+			}
+    },
+    {
+			"question_no": 102,
+			"question_text": "Because Mr. Lewis works so -------, he was given a pay raise.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "bright",
+				"position_2": "hard",
+				"position_3": "tight",
+				"position_4": "sharp"
+			}
+    },
+    {
+			"question_no": 103,
+			"question_text": "Full of old-fashioned charm, the Bronstad Inn ------- offers modern conveniences.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "plus",
+				"position_2": "else",
+				"position_3": "also",
+				"position_4": "less"
+			}
+		},
+		{
+			"question_no": 104,
+			"question_text": "Franklin Bookstore will be moving next month ------- a larger location on Queen Street.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "to",
+				"position_2": "at",
+				"position_3": "out",
+				"position_4": "over"
+			}
+    },
+    {
+			"question_no": 105,
+			"question_text": "Marina Hou ------- considered becoming an actor before deciding to write plays instead.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "briefly",
+				"position_2": "briefs",
+				"position_3": "briefing",
+				"position_4": "briefed"
+			}
+    },
+    {
+			"question_no": 106,
+			"question_text": "On Fixit Time's Web site, homeowners will find economical solutions for ------- repairs.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "dark",
+				"position_2": "broken",
+				"position_3": "cleaning",
+				"position_4": "common"
+			}
+		},
+		{
+			"question_no": 107,
+			"question_text": "Walter Keegan was ------- hired as a salesperson, but he soon became head of the marketing department.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "originality",
+				"position_2": "original",
+				"position_3": "originals",
+				"position_4": "originally"
+			}
+    },
+    {
+			"question_no": 108,
+			"question_text": "Durr Island has become popular with tourists ------- its rich culture of art and music.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "provided that",
+				"position_2": "because of",
+				"position_3": "even",
+				"position_4": "how"
+			}
+    },
+    {
+			"question_no": 109,
+			"question_text": "While he is not enthusiastic about the suggestions, Mr. Shang ------- them.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "considering",
+				"position_2": "to consider",
+				"position_3": "will consider",
+				"position_4": "consider"
+			}
+		},
+		{
+			"question_no": 110,
+			"question_text": "The design ------- of Tavalyo Toys has been relocated to the company's headquarters.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "division",
+				"position_2": "specification",
+				"position_3": "allowance",
+				"position_4": "construction"
+			}
+    },
+    {
+			"question_no": 111,
+			"question_text": "The Merrick Travel Agency organizes tours of national monuments and other ------- sites in the St. Petersburg area",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "historian",
+				"position_2": "historic",
+				"position_3": "historically",
+				"position_4": "histories"
+			}
+    },
+    {
+			"question_no": 112,
+			"question_text": "The MHS wireless speaker not only works with smartphones ------- is waterproof as well",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "but",
+				"position_2": "and",
+				"position_3": "however",
+				"position_4": "besides"
+			}
+		},
+		{
+			"question_no": 113,
+			"question_text": "Assistant managers are largely responsible for the day-to-day operations in ------- departments",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "theirs",
+				"position_2": "them",
+				"position_3": "their",
+				"position_4": "they"
+			}
+    },
+    {
+			"question_no": 114,
+			"question_text": "Customers must ------- review the terms of the fitness center's membership agreement before they sign it",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "smoothly",
+				"position_2": "probably",
+				"position_3": "legibly",
+				"position_4": "thoroughly"
+			}
+    },
+    {
+			"question_no": 115,
+			"question_text": "We made a ------- estimate of how many tourists to expect in the coming month",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "conservative",
+				"position_2": "conservation",
+				"position_3": "conservatism",
+				"position_4": "conservatively"
+			}
+		},
+		{
+			"question_no": 116,
+			"question_text": "Once they have completed three years of employment, the workers at Loruja ------- additional vacation time.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "reserve",
+				"position_2": "earn",
+				"position_3": "earned",
+				"position_4": "find"
+			}
+    },
+    {
+			"question_no": 117,
+			"question_text": "------- has time at the end of the day should make sure that all of the file cabinets are locked.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Whom",
+				"position_2": "Who",
+				"position_3": "Whoever",
+				"position_4": "Whose"
+			}
+    },
+    {
+			"question_no": 118,
+			"question_text": "North River Linens promises next-day shipping ------- Asia",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "without",
+				"position_2": "between",
+				"position_3": "throughout",
+				"position_4": "along"
+			}
+		},
+		{
+			"question_no": 119,
+			"question_text": "------- last year, the unpublished novel by Martin Sim has attracted intense interest from several publishing companies",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "Discover",
+				"position_2": "Discovery",
+				"position_3": "Discovered",
+				"position_4": "Discovering"
+			}
+    },
+    {
+			"question_no": 120,
+			"question_text": "Hoonton Realty clients can search property listings in ------- neighborhood by using a special online database.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "other",
+				"position_2": "several",
+				"position_3": "all",
+				"position_4": "any"
+			}
+    },
+    {
+			"question_no": 121,
+			"question_text": "Exceptional service is what sets our hotels apart from those of our -------.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "compete",
+				"position_2": "competing",
+				"position_3": "competitive",
+				"position_4": "competition"
+			}
+		},
+		{
+			"question_no": 122,
+			"question_text": "The Internet connection will be closely monitored ------- the source of the slowdown can be confirmed.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "why",
+				"position_2": "until",
+				"position_3": "due to",
+				"position_4": "just as"
+			}
+    },
+    {
+			"question_no": 123,
+			"question_text": "Thank you for being one of Danton Transportation's most ------- customers over the past ten years.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "valuation",
+				"position_2": "valued",
+				"position_3": "value",
+				"position_4": "values"
+			}
+    },
+    {
+			"question_no": 124,
+			"question_text": "Mr. Tang is a successful recruiter because he can quickly ------- talented sales agents from the rest",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "distinguish",
+				"position_2": "persuade",
+				"position_3": "alter",
+				"position_4": "assist"
+			}
+		},
+		{
+			"question_no": 125,
+			"question_text": "Ms. Penner assured us that------- work stopped during the power failure, production targets would be met.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "although",
+				"position_2": "at",
+				"position_3": "her",
+				"position_4": "nerver"
+			}
+    },
+    {
+			"question_no": 126,
+			"question_text": "Please provide the exact dimensions of the custom fence you would like built, and your quote will be adjusted -------.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "namely",
+				"position_2": "accordingly",
+				"position_3": "frequently",
+				"position_4": "supposedly"
+			}
+    },
+    {
+			"question_no": 127,
+			"question_text": "The vice president of Chestonville Bank believes that ------- employees is vital to the company's success",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "empowered",
+				"position_2": "empower",
+				"position_3": "empowering",
+				"position_4": "empowers"
+			}
+		},
+		{
+			"question_no": 128,
+			"question_text": "The------- for the city council's Monday meeting is posted on the municipal Web site by 3:00P.M. on the preceding Friday.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "catalog",
+				"position_2": "inventory",
+				"position_3": "agenda",
+				"position_4": "record"
+			}
+    },
+    {
+			"question_no": 129,
+			"question_text": "The building inspector declared the new facility ------- sound and ready to open",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "structured",
+				"position_2": "structuring",
+				"position_3": "structural",
+				"position_4": "structurally"
+			}
+    },
+    {
+			"question_no": 130,
+			"question_text": "Dr. Huertas received the ------- Brighton Award for her groundbreaking work in plant biology.",
+			"group_desc": "",
+			"list_answers": {
+				"position_1": "overwhelmed",
+				"position_2": "overwhelmed",
+				"position_3": "prestigious",
+				"position_4": "prestigioused"
+			}
+    }
+  ]
+}

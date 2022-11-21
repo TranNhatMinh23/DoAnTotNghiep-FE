@@ -1,0 +1,10 @@
+.displayAvatar {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.displayAvatar img {
+  width: 200px;
+}
+.infoAvatar p{
+  margin-top: 20px;
+}

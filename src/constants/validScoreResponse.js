@@ -1,0 +1,1 @@
+export const typeScoreErrorMessage = "Score must be numeric values ​​greater than or equal to 0 and less than or equal to 495";

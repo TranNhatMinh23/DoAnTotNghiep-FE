@@ -1,0 +1,11 @@
+.viewmore {
+  text-align: center;
+  font-size: 15px;
+  margin-right: 25px;
+}
+.viewmore i {
+  font-size: 12px;
+}
+.viewmore a:hover i {
+  margin-left: 5px;
+}

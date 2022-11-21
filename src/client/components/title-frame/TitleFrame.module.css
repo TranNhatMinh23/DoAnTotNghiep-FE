@@ -1,0 +1,17 @@
+.titleFrame {
+  background: var(--blueSkypeColor);
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+} 
+.titleFrame span {
+  color: var(--blackColor);
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: 10px;
+}
+.titleFrame p{ 
+  display: inline-block;
+  margin-bottom: 0; 
+  font-size: 15px;
+}

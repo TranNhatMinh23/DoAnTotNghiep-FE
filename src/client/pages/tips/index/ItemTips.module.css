@@ -1,0 +1,42 @@
+.itemTips {
+  display: flex;
+  flex-direction: row;
+  padding: 0 0 8px;
+  border-bottom: 1px solid #eaeaea;
+  margin-bottom: 20px;  
+}
+.itemTips:hover img{
+  opacity: 0.8;
+}
+.itemTips p {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+.itemTips img { 
+  width: 170px;
+  height: 120px;
+  margin-right: 10px; 
+  border-radius: 5px;
+}
+.title {
+  font-size: 15px !important; 
+  font-weight: 500;
+  color: var(--grayColor); 
+  display: inline;
+}
+.title:hover {
+  color: var(--blueColor);
+}
+.date {
+  margin-top: 5px;
+}
+.date i {
+  margin-right: 7px;
+}
+.detailMore {
+  font-size: 13px;
+  font-style: italic;
+}
+/* .description {
+
+} */

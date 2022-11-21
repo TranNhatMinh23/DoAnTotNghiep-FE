@@ -1,0 +1,47 @@
+.mainViewOfContentExam {
+  color: #000;
+  margin: 60px 0 20px;
+}
+.mainContentOfExam {
+  width: 85%;
+  border-radius: 10px;
+  margin: -50px auto 50px;
+  padding: 30px 40px;
+  position: relative;
+  border: 1px solid #eee;
+  box-shadow: 0px 1px 2px -1px rgba(0,0,0,0.2), 0px 2px 1px 0px rgba(0,0,0,0.14), 0px 1px 1px 0px rgba(0,0,0,0.12);
+}
+.titleExam {
+  text-align: center;
+  font-size: 30px;
+  color: #09c;
+}
+.titleExam span{
+  font-weight: 400;
+  display: block;
+}
+.titleExam p{
+  font-size: 15px;
+  margin-top: 20px;
+  color: #fa5b0f;
+}
+ 
+.finishBtn {
+  float: right;
+  position: relative;
+  text-transform: capitalize;
+  bottom: 25px;
+  margin-left: 10px;
+  background: var(--primaryButtonColor) !important;
+}
+.finishBtn:hover{
+  opacity: 0.8;
+}
+.finishBtn span {
+  padding: 0 5px;
+  letter-spacing: 1px;
+}
+.errorMessage {
+  text-align: center;
+  color: var(--redColor);
+}

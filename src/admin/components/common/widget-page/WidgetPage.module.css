@@ -1,0 +1,13 @@
+.widget { 
+  border-top: 3px solid var(--tealColor);
+  border-radius: 3px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  background: var(--whiteColor);
+  position: relative;
+}

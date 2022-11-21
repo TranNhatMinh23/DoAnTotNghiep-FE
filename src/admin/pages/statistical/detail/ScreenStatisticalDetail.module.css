@@ -1,0 +1,26 @@
+.titleChart {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-size: 18px;
+}
+.customTooltip {
+  border: 1px solid var(--brownColor);
+  background: var(--grayWhiteColor);
+  opacity: 0.7;
+  padding: 10px;
+}
+.titleOfTooltip {
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.customTooltip span {
+  font-size: 14px;
+  margin-bottom: 5px;
+  font-style: italic;
+}
+.searchBox {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}

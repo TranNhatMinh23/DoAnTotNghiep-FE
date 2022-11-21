@@ -1,0 +1,22 @@
+.table {
+  margin-top: 10px; 
+}
+.iconEye {
+  font-size: 20px;
+}
+.titleChart {
+  display: flex;
+  justify-content: space-between;
+}
+.topTableDetailResult {
+  display: flex; 
+  justify-content: space-between;
+}
+.titleDetailResultTable {
+  margin-bottom: 10px;
+}
+i.iconBtnExport {
+  font-size: 18px;
+  margin-right: 6px;
+  margin-top: 3px;
+}

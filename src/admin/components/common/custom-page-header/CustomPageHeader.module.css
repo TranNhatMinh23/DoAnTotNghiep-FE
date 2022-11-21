@@ -1,0 +1,14 @@
+.pageHeader {
+  display: block;
+}
+.backIcon {
+  border-right: 1px solid #eee;
+  line-height: 10px;
+  margin-right: 10px;
+}
+.backIcon i{ 
+  margin-right: 10px;
+}
+.backIcon, .header {
+  display: inline-block;
+}

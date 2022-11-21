@@ -1,0 +1,11 @@
+.fullTestAudioWrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+.fullTestAudioWrapper button {
+  border: none !important;
+  cursor: pointer;
+}
+.fullTestAudioWrapper button i {
+  font-size: 50px;
+}  

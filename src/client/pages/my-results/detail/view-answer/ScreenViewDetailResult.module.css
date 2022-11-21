@@ -1,0 +1,77 @@
+.titleExam {
+  text-align: center;
+  font-size: 30px;
+  margin: 20px;
+  color: var(--primaryColor);
+  font-weight: 500;
+}
+.backIcon {
+  float: left;
+  font-size: 20px;
+}
+/* Group button navigate to Top or Bottom in page */
+.groupBtnNavigate {
+  z-index: 99;
+  position: fixed;
+  bottom: 60px;
+  right: 10px;
+}
+.groupBtnNavigate button {
+  background: var(--primaryColor);
+  width: 25px;
+  color: var(--whiteColor);
+  border: 0px;
+  opacity: 0.7;
+  border-radius: 4px;
+}
+.groupBtnNavigate button:hover {
+  opacity: 1;
+}
+.groupBtnNavigate .btnToTop {
+  position: relative;
+  top: -30px;
+  right: -25px;
+}
+.mainViewOfContentExam {
+  color: var(--blackColor);
+}
+.mainContentOfExam {
+  width: 90%;
+  top: 30px;
+  font-size: 17px !important;
+  border-radius: 10px;
+  margin: -50px auto 50px;
+  padding: 30px 40px;
+  position: relative;
+  border: 1px solid var(--borderColor);
+  box-shadow: 0px 1px 2px -1px rgba(0,0,0,0.2), 0px 2px 1px 0px rgba(0,0,0,0.14), 0px 1px 1px 0px rgba(0,0,0,0.12);
+}
+@media (max-width: 920px) {
+  .mainContentOfExam {
+    width: 100%;
+    padding: 30px;
+  }
+}
+.finishBtn {
+  float: right;
+  position: relative;
+  bottom: 25px;
+  margin-left: 10px;
+  color: var(--whiteColor) !important;
+  background: var(--primaryColor) !important;
+}
+.finishBtn:hover{
+  opacity: 0.8;
+}
+.finishBtn span {
+  padding: 0 5px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+.infoUserHasReports {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.infoUserHasReports p{
+  margin-bottom: 5px;
+}

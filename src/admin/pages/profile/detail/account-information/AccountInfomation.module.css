@@ -1,0 +1,13 @@
+.personalInfo {
+  margin: 20px 0;
+}
+.personalInfo form label, .personalInfo form input {
+  font-size: 16px !important;
+}
+.chooseBirthday {
+  width: 100% !important;
+}
+.btnSubmitChange {
+  width: 100%;
+  text-align: center;
+}

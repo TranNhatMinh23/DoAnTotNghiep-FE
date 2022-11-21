@@ -1,0 +1,20 @@
+.titleAndButtonImport {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.btnImportScoreFile {
+  margin-right: 10px;
+}
+.btnImportScoreFile label {
+  margin-bottom: 0;
+  cursor: pointer;
+}
+.title {
+  font-size: 16px;
+  color: var(--blackColor);
+}
+.iconTitle {
+  font-size: 18px; 
+  margin-right: 8px;
+} 

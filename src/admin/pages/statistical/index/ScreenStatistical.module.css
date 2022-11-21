@@ -1,0 +1,20 @@
+.table { 
+  clear: both;
+} 
+.note {
+  margin-bottom: 5px;
+  margin-left: 10px;
+  text-transform: lowercase;
+} 
+.note .stopIcon {
+  margin-left: 20px;
+}
+.searchBox {
+  float: right;
+  margin-bottom: 10px;
+  margin-top: -10px;
+}
+.StatisticalDescription {
+  font-size: 14px;
+  font-weight: 400;
+}

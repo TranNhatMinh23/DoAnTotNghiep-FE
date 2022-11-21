@@ -1,0 +1,29 @@
+.titleLogin {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  color: var(--limegreenColor);
+  text-transform: uppercase;
+}
+.cbRemember {
+  margin-bottom: 5px !important;
+}
+.optionChooseSignup {
+  text-align: center;
+}
+.btnSubmitLogin {
+  background: var(--seagreenColor) !important;
+  border: none;
+  border-color: var(--seagreenColor) !important;
+}
+.displayErrLogin {
+  text-align: center;
+  font-size: 14px;
+  color: var(--redColor);
+}
+.spanForgotPassword {
+  float: right;
+}
+.btnSubmitAndLinkWidget {
+  margin-bottom: 0 !important;
+}

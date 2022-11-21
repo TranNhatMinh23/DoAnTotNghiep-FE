@@ -1,0 +1,47 @@
+.wdNotify {
+  overflow: hidden;
+  margin: 12px 0 15px;
+}  
+.wdNotifyRight a{
+  color: #656565;
+  overflow: hidden;
+  font-size: 15px; 
+}
+.wdNotifyRight a p {
+  margin-bottom: 0;
+}
+.wdNotifyRight .time {
+  display: block;
+  padding: 4px 0 0 0;
+  color: #a9a9a9;
+  font-size: 12px;
+  font-weight: normal;
+}
+.calendar {
+  position: relative;
+  width: 54px;
+  height: 61px;
+  background: url('../../../../assets/icons/calendar.png') no-repeat;
+  background-size: cover;
+  float: left;
+  display: block;
+  margin-right: 15px; 
+}
+.calendar .year, .calendar .month, .calendar .date {
+  position: absolute; 
+  left: 50%;
+  transform: translateX(-50%);
+}
+.year {
+  font-size: 12px;
+  color: var(--whiteColor);
+  top: 4px;
+}
+.month {
+  font-size: 14px;
+  top: 42px;
+}
+.date {
+  font-size: 20px;
+  top: 18px;
+}

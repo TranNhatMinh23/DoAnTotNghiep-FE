@@ -1,0 +1,31 @@
+.widgetMyReports {
+  margin: 20px auto;
+}
+.widgetMyReports>p{
+  text-transform: uppercase;
+}
+.topTable {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.currentMonthView {
+  font-size: 16px;
+}
+.currentMonthView b {
+  font-weight: 400 !important;
+}
+.currentMonthView button {
+  width: 24px;
+  height: 24px; 
+  font-size: 13px;
+}
+.currentMonthView span:hover {
+  background: #e8e8e8;
+  border-radius: 50%; 
+  cursor: pointer;
+}
+.displayMonthText{
+  margin: 0 10px;
+}

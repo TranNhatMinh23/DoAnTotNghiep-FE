@@ -1,0 +1,598 @@
+{
+	"data": [
+		{
+			"question_no": 147,
+			"group_desc": "Questions 147-148 refer to the following notice.",
+			"question_text": "What is the purpose of the notice?",
+			"list_answers": {
+				"position_1": "To warn about increased traffic",
+				"position_2": "To outline work-zone safety tips",
+				"position_3": "To describe an improvement project",
+				"position_4": "To announce plans for a new highway"
+			}
+		},
+		{
+			"question_no": 148,
+			"group_desc": "",
+			"question_text": "What is a feature of the new signs?",
+			"list_answers": {
+				"position_1": "They will last much longer.",
+				"position_2": "They come in many colors.",
+				"position_3": "They are significantly larger",
+				"position_4": "They offer improved readability"
+			}
+		},
+		{
+			"question_no": 149,
+			"group_desc": "Questions 149-150 refer to the following form.",
+			"question_text": "What can be reimbursed using the form?",
+			"list_answers": {
+				"position_1": "Only amounts less than £100",
+				"position_2": "Only transportation costs",
+				"position_3": "Only charges submitted with a receipt",
+				"position_4": "Only the expenses of senior staff members"
+			}
+		},
+		{
+			"question_no": 150,
+			"group_desc": "",
+			"question_text": "What is suggested about Mr. Oswell?",
+			"list_answers": {
+				"position_1": "He used a company credit card.",
+				"position_2": "He gets paid at the end of every week.",
+				"position_3": "He conducted business with a new client.",
+				"position_4": "He will receive a credit with his next paycheck"
+			}
+		},
+		{
+			"question_no": 151,
+			"group_desc": "Questions 151 -153 refer to the following e-mail",
+			"question_text": "How often are the elevators inspected?",
+			"list_answers": {
+				"position_1": "Once a month",
+				"position_2": "Every six months",
+				"position_3": "Once a year",
+				"position_4": "Every two years"
+			}
+		},
+		{
+			"question_no": 152,
+			"group_desc": "",
+			"question_text": "Why might the inspection be inconvenient for staff and clients?",
+			"list_answers": {
+				"position_1": "Offices on the top floor will be closed after 11 :00 A.M.",
+				"position_2": "An elevator they often use may not be working .",
+				"position_3": "The elevators will be out of service until 2:00 P.M. Monday",
+				"position_4": "Officials may have to operate some elevators for riders."
+			}
+		},
+		{
+			"question_no": 153,
+			"group_desc": "",
+			"question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'Thank you for your patience, and let me know if you have any questions.'",
+			"list_answers": {
+				"position_1": "[1]",
+				"position_2": "[2]",
+				"position_3": "[3]",
+				"position_4": "[4]"
+			}
+		},
+		{
+			"question_no": 154,
+			"group_desc": "Questions 154-155 refer to the following online chat discussion.",
+			"question_text": "What is indicated about Mr. Hartford?",
+			"list_answers": {
+				"position_1": "He is unable to attend an upcoming event.",
+				"position_2": "He will contact Ms. Milerre in the afternoon.",
+				"position_3": "He is organizing a conference.",
+				"position_4": "He has not made travel plans yet."
+			}
+		},
+		{
+			"question_no": 155,
+			"group_desc": "",
+			"question_text": "At 10:39 A.M. , what does Ms. Milerre most likely mean when she says, 'I see'?",
+			"list_answers": {
+				"position_1": "She is looking at some information about a client.",
+				"position_2": "She understands an explanation provided by Mr. del Mar.",
+				"position_3": "She is currently viewing some photographs of gift baskets.",
+				"position_4": "She knows that Mr. del Mar wants her to purchase a card."
+			}
+		}, 
+		{
+			"question_no": 156,
+			"group_desc": "Questions 156-157 refer to the following information",
+			"question_text": "Where would the information most likely be found?",
+			"list_answers": {
+				"position_1": "Inside a package with a product",
+				"position_2": "Near a piece of art in a museum",
+				"position_3": "In an article in a nature magazine",
+				"position_4": "In an advertisement in a newspaper"
+			}
+		},
+		{
+			"question_no": 157,
+			"group_desc": "",
+			"question_text": "According to the information, what can readers do on a Web site?",
+			"list_answers": {
+				"position_1": "Browse new items available for sale",
+				"position_2": "Compare the different types of wood",
+				"position_3": "Read detailed product-care instructions",
+				"position_4": "Learn about wood-carving techniques"
+			}
+		},
+		{
+			"question_no": 158,
+			"group_desc": "Questions 158-160 refer to the following form .",
+			"question_text": "How can Ms. Otani become eligible for a discount?",
+			"list_answers": {
+				"position_1": "By booking an event before April 6",
+				"position_2": "By referring someone who books an event",
+				"position_3": "By reserving a block of hotel rooms",
+				"position_4": "By completing an online survey"
+			}
+		},
+		{
+			"question_no": 159,
+			"group_desc": "",
+			"question_text": "What problem did Ms. Otani experience?",
+			"list_answers": {
+				"position_1": "There was too much noise.",
+				"position_2": "There was not enough food.",
+				"position_3": "The menu was limited.",
+				"position_4": "The room was small."
+			}
+		},
+		{
+			"question_no": 160,
+			"group_desc": "",
+			"question_text": "What is NOT indicated on the form?",
+			"list_answers": {
+				"position_1": "The guests enjoyed the food.",
+				"position_2": "The event was held in the Oakwood Dining Room.",
+				"position_3": "Many of Ms. Otani's guests stayed overnight.",
+				"position_4": "A Pernely Hotel staff member helped with planning."
+			}
+		},
+		{
+			"question_no": 161,
+			"group_desc": "Questions 161 -163 refer to the following article",
+			"question_text": "What is the purpose of the article?",
+			"list_answers": {
+				"position_1": "To critique new types of eyewear",
+				"position_2": "To report on the opening of a vision center",
+				"position_3": "To announce the uniting of two companies",
+				"position_4": "To discuss recent fashion trends"
+			}
+		},
+		{
+			"question_no": 162,
+			"group_desc": "",
+			"question_text": "What will Roebling Vision do soon?",
+			"list_answers": {
+				"position_1": "Increase its laboratory capacity",
+				"position_2": "Move its headquarters to Nairobi",
+				"position_3": "Discontinue a product line",
+				"position_4": "Hire a new CEO"
+			}
+		},
+		{
+			"question_no": 163,
+			"group_desc": "",
+			"question_text": "The phrase 'devoted to' in paragraph 4, line 8, is closest in meaning to",
+			"list_answers": {
+				"position_1": "admiring of",
+				"position_2": "focused on",
+				"position_3": "elected to",
+				"position_4": "supported by"
+			}
+		},
+		{
+			"question_no": 164,
+			"group_desc": "Questions 164-167 refer to the following online chat discussion.",
+			"question_text": "What is suggested about the speaker series?",
+			"list_answers": {
+				"position_1": "It will include lunch.",
+				"position_2": "It will be held in a hospital.",
+				"position_3": "It will be open to the public.",
+				"position_4": "It will be shown on television."
+			}
+		},
+		{
+			"question_no": 165,
+			"group_desc": "",
+			"question_text": "At 9:33A.M., what does Ms. Ogus mean when she writes, 'Marvelous'?",
+			"list_answers": {
+				"position_1": "She is satisfied with the latest newsletter.",
+				"position_2": "She is pleased that Mr. Jellis has joined the chat.",
+				"position_3": "She is happy with Mr. Yoon's choice of speaker.",
+				"position_4": "She is glad to speak as part of the series."
+			}
+		},
+		{
+			"question_no": 166,
+			"group_desc": "",
+			"question_text": "When is Mr. Rickert scheduled to speak?",
+			"list_answers": {
+				"position_1": "In February",
+				"position_2": "In March",
+				"position_3": "In April",
+				"position_4": "In May"
+			}
+		},
+		{
+			"question_no": 167,
+			"group_desc": "",
+			"question_text": "According to the chat, what topic will most likely NOT be discussed in the speaker series?",
+			"list_answers": {
+				"position_1": "Physical exercise",
+				"position_2": "Eating well",
+				"position_3": "Sleep habits",
+				"position_4": "Healthy relationships"
+			}
+		},
+		{
+			"question_no": 168,
+			"group_desc": "Questions 168-171 refer to the following report.",
+			"question_text": "Why most likely did Ms. Henninger request the audit service?",
+			"list_answers": {
+				"position_1": "She would like to enlarge her living space.",
+				"position_2": "She needs some heating equipment repaired .",
+				"position_3": "She is interested in purchasing a property.",
+				"position_4": "She wants to lower her summer energy costs."
+			}
+		},
+		{
+			"question_no": 169,
+			"group_desc": "",
+			"question_text": "What is indicated about the air-conditioning unit?",
+			"list_answers": {
+				"position_1": "It is an adequate size.",
+				"position_2": "It has a satisfactory venting system.",
+				"position_3": "It is a discontinued model.",
+				"position_4": "It has been producing warm air."
+			}
+		},
+		{
+			"question_no": 170,
+			"group_desc": "",
+			"question_text": "What does Mr. Anders advise about the ceiling fans?",
+			"list_answers": {
+				"position_1": "They should be replaced.",
+				"position_2": "They should be reinstalled in other locations.",
+				"position_3": "They should be used instead of the air-conditioning unit.",
+				"position_4": "They should be turned off for part of the year."
+			}
+		},
+		{
+			"question_no": 171,
+			"group_desc": "",
+			"question_text": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? 'This should be a top priority.'",
+			"list_answers": {
+				"position_1": "[1]",
+				"position_2": "[2]",
+				"position_3": "[3]",
+				"position_4": "[4]"
+			}
+		},
+		{
+			"question_no": 172,
+			"group_desc": "Questions 172-175 refer to the following conference schedule.",
+			"question_text": "Who most likely would attend the conference?",
+			"list_answers": {
+				"position_1": "Transportation company owners",
+				"position_2": "Computer software programmers",
+				"position_3": "Truck and bus drivers",
+				"position_4": "Business management professors"
+			}
+		},
+		{
+			"question_no": 173,
+			"group_desc": "",
+			"question_text": "What is NOT a subject likely to be covered during the 9:30A.M. session?",
+			"list_answers": {
+				"position_1": "Pricing",
+				"position_2": "International shipments",
+				"position_3": "Solving common difficulties",
+				"position_4": "Improving staff communication"
+			}
+		},
+		{
+			"question_no": 174,
+			"group_desc": "",
+			"question_text": "When will the session on following regulations be held?",
+			"list_answers": {
+				"position_1": "At 8:00 A.M.",
+				"position_2": "At 9:30A.M.",
+				"position_3": "At 10:45 A.M.",
+				"position_4": "At 12:00 P.M."
+			}
+		},
+		{
+			"question_no": 175,
+			"group_desc": "",
+			"question_text": "Where will Ms. Chioke lead her session?",
+			"list_answers": {
+				"position_1": "In the main auditorium",
+				"position_2": "In the Geneva Conference Room",
+				"position_3": "In the Harkness Conference Room",
+				"position_4": "In room G14"
+			}
+		},
+		{
+			"question_no": 176,
+			"group_desc": "Questions 176-180 refer to the following sales report and e-mail.",
+			"question_text": "What product sold less than expected?",
+			"list_answers": {
+				"position_1": "Prepared coffee drinks",
+				"position_2": "Prepared tea drinks",
+				"position_3": "Bottled drinks",
+				"position_4": "Baked goods"
+			}
+		},
+		{
+			"question_no": 177,
+			"group_desc": "",
+			"question_text": "What problem does Ms. Lin have?",
+			"list_answers": {
+				"position_1": "Some desserts did not sell as desired",
+				"position_2": "Some mugs have not been delivered.",
+				"position_3": "Some coffee beans are out of stock.",
+				"position_4": "Some posters have unclear information"
+			}
+		},
+		{
+			"question_no": 178,
+			"group_desc": "",
+			"question_text": "What does Ms. Lin recommend?",
+			"list_answers": {
+				"position_1": "A better espresso machine should be purchased.",
+				"position_2": "The customer loyalty program should be discontinued.",
+				"position_3": "Part-time staff should be hired on a permanent basis.",
+				"position_4": "Employees should receive additional training."
+			}
+		},
+		{
+			"question_no": 179,
+			"group_desc": "",
+			"question_text": "What is suggested about the Misty Heights Blend?",
+			"list_answers": {
+				"position_1": "It was offered for the first time in March.",
+				"position_2": "It will no longer be sold by Placid Moon Coffee.",
+				"position_3": "It is more expensive than other types of coffee.",
+				"position_4": "It has a stronger flavor than other blends."
+			}
+		},
+		{
+			"question_no": 180,
+			"group_desc": "",
+			"question_text": "What is most likely true about Ms. Lin?",
+			"list_answers": {
+				"position_1": "She agreed to take on an added responsibility.",
+				"position_2": "She requested a new espresso maker from Mr. Harris.",
+				"position_3": "She recommended products to Mr. Asakawa.",
+				"position_4": "She renovated the employee lounge"
+			}
+		},
+		{
+			"question_no": 181,
+			"group_desc": "Questions 181-185 refer to the following article and online application.",
+			"question_text": "What does the article indicate about Toni's Baking Ace?",
+			"list_answers": {
+				"position_1": "It accepts teenagers as contestants.",
+				"position_2": "It often selects international participants.",
+				"position_3": "It awards prize money to winners.",
+				"position_4": "It is hosted by a famous author."
+			}
+		},
+		{
+			"question_no": 182,
+			"group_desc": "",
+			"question_text": "In the article, the word 'hit' in paragraph 2, line 2, is closest in meaning to",
+			"list_answers": {
+				"position_1": "success",
+				"position_2": "impact",
+				"position_3": "expense",
+				"position_4": "encouragement"
+			}
+		},
+		{
+			"question_no": 183,
+			"group_desc": "",
+			"question_text": "What requirement is mentioned in the online application?",
+			"list_answers": {
+				"position_1": "Signing a contract",
+				"position_2": "Passing a baking speed competition",
+				"position_3": "Including an introductory video",
+				"position_4": "Participating in a past contest"
+			}
+		},
+		{
+			"question_no": 184,
+			"group_desc": "",
+			"question_text": "What does Mr. Farah state in his application?",
+			"list_answers": {
+				"position_1": "He has a kitchen assistant.",
+				"position_2": "He is an educator",
+				"position_3": "He has never watched the show.",
+				"position_4": "His father will soon appear on the show."
+			}
+		},
+		{
+			"question_no": 185,
+			"group_desc": "",
+			"question_text": "Why most likely does Mr. Farah give details about an annual event?",
+			"list_answers": {
+				"position_1": "To show how popular his baking is",
+				"position_2": "To indicate he is familiar with contests",
+				"position_3": "To provide evidence that he is not a professional baker",
+				"position_4": "To prove he can bake with limited equipment"
+			}
+		},
+		{
+			"question_no": 186,
+			"group_desc": "Questions 186-190 refer to the following Web page, form, and e-mail",
+			"question_text": "What is the purpose of the Web page?",
+			"list_answers": {
+				"position_1": "To promote upcoming shows",
+				"position_2": "To review recent performances",
+				"position_3": "To announce advertising opportunities",
+				"position_4": "To profile the lineup of performers"
+			}
+		},
+		{
+			"question_no": 187,
+			"group_desc": "",
+			"question_text": "What is mentioned about Lanark Theater?",
+			"list_answers": {
+				"position_1": "It offers a variety of artistic performances.",
+				"position_2": "It advertises in a local newspaper.",
+				"position_3": "It has only recently opened.",
+				"position_4": "It features performances exclusively from local groups"
+			}
+		},
+		{
+			"question_no": 188,
+			"group_desc": "",
+			"question_text": "What type of business does Ms. Sanderson own?",
+			"list_answers": {
+				"position_1": "An advertising company",
+				"position_2": "A clothing store",
+				"position_3": "A theater",
+				"position_4": "A restaurant"
+			}
+		},
+		{
+			"question_no": 189,
+			"group_desc": "",
+			"question_text": "What advertisement option will Ms. Sanderson most likely purchase?",
+			"list_answers": {
+				"position_1": "A full-page advertisement",
+				"position_2": "A half-page advertisement",
+				"position_3": "A quarter-page advertisement",
+				"position_4": "A one-time advertisement"
+			}
+		},
+		{
+			"question_no": 190,
+			"group_desc": "",
+			"question_text": "What is suggested about Mr. Ritchie?",
+			"list_answers": {
+				"position_1": "He is a co-owner at Stanmore Bistro.",
+				"position_2": "He will receive discounted tickets.",
+				"position_3": "He has upgraded his advertising package.",
+				"position_4": "He prefers music performances to dance performances."
+			}
+		},
+		{
+			"question_no": 191,
+			"group_desc": "Questions 191-195 refer to the fol lowing Web page and e-mails",
+			"question_text": "What does the Web page indicate about the concert series?",
+			"list_answers": {
+				"position_1": "It is held every year.",
+				"position_2": "It focuses on classical music",
+				"position_3": "It is open only to museum members.",
+				"position_4": "It is organized by a well-known artist."
+			}
+		},
+		{
+			"question_no": 192,
+			"group_desc": "",
+			"question_text": "According to the Web page, what act has recently recorded music?",
+			"list_answers": {
+				"position_1": "Killaloe Sounds",
+				"position_2": "Lillian Cathey",
+				"position_3": "The Tulia Stampers",
+				"position_4": "The Hennessy String Quartet"
+			}
+		},
+		{
+			"question_no": 193,
+			"group_desc": "",
+			"question_text": "What is suggested about the Tulia Stampers concert?",
+			"list_answers": {
+				"position_1": "It has already sold out.",
+				"position_2": "It will begin two hours early.",
+				"position_3": "It will feature a local guest musician.",
+				"position_4": "It has been moved to a different date."
+			}
+		},
+		{
+			"question_no": 194,
+			"group_desc": "",
+			"question_text": "According to the first e-mail, why should musicians arrive early?",
+			"list_answers": {
+				"position_1": "To find parking",
+				"position_2": "To sign a contract",
+				"position_3": "To test sound equipment",
+				"position_4": "To select a stage manager"
+			}
+		},
+		{
+			"question_no": 195,
+			"group_desc": "",
+			"question_text": "What is indicated about Ms. Lewis?",
+			"list_answers": {
+				"position_1": "She recorded a song with Lillian Cathey",
+				"position_2": "She has requested transportation to Cheverly Art Museum.",
+				"position_3": "She has never used video in her performance before.",
+				"position_4": "She attended a performance by Killaloe Sounds."
+			}
+		},
+		{
+			"question_no": 196,
+			"group_desc": "Questions 196-200 refer to the following table of contents, Web page, and blog post",
+			"question_text": "How are the first two articles in the magazine similar?",
+			"list_answers": {
+				"position_1": "Both discuss employee hiring practices.",
+				"position_2": "Both focus on new uses of technology.",
+				"position_3": "Both discuss how a new position is advertised.",
+				"position_4": "Both critique negative interview behaviors."
+			}
+		},
+		{
+			"question_no": 197,
+			"group_desc": "",
+			"question_text": "On what page is there advice for international travelers?",
+			"list_answers": {
+				"position_1": "Page 11",
+				"position_2": "Page 27",
+				"position_3": "Page 38",
+				"position_4": "Page 44"
+			}
+		},
+		{
+			"question_no": 198,
+			"group_desc": "",
+			"question_text": "According to the Web page, what did the reporter do?",
+			"list_answers": {
+				"position_1": "He visited the hotel in March.",
+				"position_2": "He hid his real identity.",
+				"position_3": "He canceled a reservation.",
+				"position_4": "He arrived late at night."
+			}
+		},
+		{
+			"question_no": 199,
+			"group_desc": "",
+			"question_text": "Who stayed at the Farol Grande Hotel?",
+			"list_answers": {
+				"position_1": "Mr. Tenor",
+				"position_2": "Ms. Zimble",
+				"position_3": "Ms. Dyson",
+				"position_4": "Mr. McDaniel"
+			}
+		},
+		{
+			"question_no": 200,
+			"group_desc": "",
+			"question_text": "On what do Ms. Pimentel and Mr. Osman agree about virtual meetings?",
+			"list_answers": {
+				"position_1": "They increase employee engagement.",
+				"position_2": "They should be phased out in the future.",
+				"position_3": "They should replace in-person meetings.",
+				"position_4": "They work well for quick exchanges of information."
+			}
+		}
+	]
+}

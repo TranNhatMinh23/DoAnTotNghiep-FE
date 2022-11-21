@@ -1,0 +1,5 @@
+.section {
+  background: var(--whiteColor);
+  padding: 15px 30px;
+  min-height: calc(100vh - 155px);
+}

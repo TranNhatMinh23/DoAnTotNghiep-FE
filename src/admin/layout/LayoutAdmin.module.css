@@ -1,0 +1,18 @@
+.title {
+  margin-top: 5px;
+}
+.sidebarLayoutAdmin {
+  margin-top: 50px !important;
+}
+.footerLayoutAdmin {
+  padding: 13px 20px !important;
+}
+.contentLayout {
+  padding: 20px;
+  font-size: 16px !important;
+  color: var(--blackColor);
+  background: var(--backgroundColor);
+}
+.layoutAdmin {
+  min-height: 100vh !important;
+}

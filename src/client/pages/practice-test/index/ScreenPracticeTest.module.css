@@ -1,0 +1,18 @@
+.screenPractice {
+  margin-top: 20px;
+} 
+.selectViewExams { 
+  display: flex;   
+}
+.selectViewExams p {
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.selectOptionView {
+  width: 150px;
+  display: flex; 
+}
+.headerViewExamsPage {
+  display: flex;
+  justify-content: space-between; 
+}

@@ -1,0 +1,8 @@
+.notfound {
+  text-align: center;
+  margin-top: 40px;
+}
+.notfound p i {
+  font-size: 30px;
+  opacity: 0.7;
+}

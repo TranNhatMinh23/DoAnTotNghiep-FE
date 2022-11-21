@@ -1,0 +1,17 @@
+.topTable {
+  margin-bottom: 10px;
+}
+.btnAddNewUser {
+  margin-bottom: 10px;
+  color: var(--greenColor) !important;
+  border-color: var(--greenColor) !important;
+}
+.btnAddNewUser:hover, .btnAddNewUser:active, .btnAddNewUser:focus {
+  border-color: var(--greenColor) !important;
+}
+.tagActiveUser {
+  cursor: pointer !important;
+}
+.imagePreviewInTable {
+  width: 200px;
+}

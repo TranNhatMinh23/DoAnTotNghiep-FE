@@ -1,0 +1,6 @@
+.securityInfomation {
+  margin-top: 20px;
+}
+.securityInfomation form label, .securityInfomation form input {
+  font-size: 16px !important;
+}

@@ -1,0 +1,32 @@
+.screenScoreCerf {
+  margin: 20px 0;
+} 
+.screenScoreCerf b {
+  font-weight: 500;
+}
+.screenScoreCerf table.tableScoreCerf, .screenScoreCerf td, .screenScoreCerf th {
+  border: 1px solid var(--blackColor);
+  font-size: 16px;
+}
+.screenScoreCerf table.tableScoreCerf thead tr th {
+  min-width: 100px;
+  text-align: center;
+  font-weight: 500;
+  padding: 10px;
+}
+.screenScoreCerf table.tableScoreCerf tbody tr td:nth-child(1) {
+  text-align: center;
+}
+.screenScoreCerf table.tableScoreCerf tbody tr td:nth-child(2) {
+  text-align: center;
+  min-width: 200px;
+}
+.screenScoreCerf table.tableScoreCerf tbody tr td:nth-child(3) {
+  padding: 10px;
+}
+
+@media (max-width: 600px){ 
+  .screenScoreCerf table.tableScoreCerf tbody tr td:nth-child(2), .screenScoreCerf table.tableScoreCerf thead tr th { 
+    min-width: auto;
+  }
+}

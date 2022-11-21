@@ -1,0 +1,42 @@
+.titleLogin {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+  color: var(--limegreenColor);
+  text-transform: uppercase;
+}
+.cbRemember {
+  margin-bottom: 5px !important;
+}
+.optionChooseSignup {
+  text-align: center;
+}
+.optionChooseSignup a{
+  padding: 0 5px;
+}
+.signupForCompanyBtn {
+  text-align: center;
+  margin-bottom: -10px;
+}
+.signupForCompanyBtn p {
+  margin-bottom: 0;
+}
+.btnSubmitSignup {
+  background: var(--seagreenColor) !important;
+  border: none;
+  width: 200px !important; 
+  border-color: var(--seagreenColor) !important;
+}
+.titleWidget {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.displayErrLogin {
+  text-align: center;
+  font-size: 14px;
+  color: var(--redColor);
+}
+.SignupResponse {
+  font-size: 16px;
+  margin: 20px 10px 50px;
+}

@@ -1,0 +1,7 @@
+.groupDecriptionQuestion input {
+  font-size: 16px;
+  color: var(--blackColor);
+}
+.groupButtonUploadImage {
+  margin: 20px 0;
+}

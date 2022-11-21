@@ -1,0 +1,10 @@
+.displayImage {
+  margin-bottom: 20px;
+}
+.answerExample {
+  text-align: right;
+}
+.answerExample>span {
+  color: var(--blackColor);
+  margin-right: 10px;
+}

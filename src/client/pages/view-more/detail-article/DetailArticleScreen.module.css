@@ -1,0 +1,71 @@
+.widgetDetailTip {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.titleTip {
+  color: var(--titleColor);
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.dateCreated {
+  margin-bottom: 10px;
+  font-size: 16px;  
+}
+.tipDescription {
+  color: var(--titleColor);
+  font-weight: 400;
+  font-size: 17px;
+}
+.contentTip {
+  font-size: 15px;
+}
+.contentTip img {
+  max-height: 450px !important;
+  max-width: 80%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.contentTip h1, .contentTip h2, .contentTip h3 {
+  font-size: 19px;
+  font-weight: 500;
+}
+.contentTip p {
+  margin-bottom: 7px;
+}
+.labelTab {
+  display: block;
+  position: relative;
+  font-size: 15px;
+  text-transform: capitalize;
+  padding: 5px 0;
+  color: var(--whiteColor);
+  z-index: 1;
+  font-weight: 500;
+  padding-left: 10px;
+  margin-bottom: 15px;
+}
+.labelTab::before{
+  content: "";
+  background: var(--limegreenColor);
+  width: 120px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  display: block;
+  z-index: -1;
+}
+.labelTab::after{
+  content: "";
+  background: var(--limegreenColor);
+  width: 100%;
+  height: 2px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: block;
+  z-index: 1;
+}

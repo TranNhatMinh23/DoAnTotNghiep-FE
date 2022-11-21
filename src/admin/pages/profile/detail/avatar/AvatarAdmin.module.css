@@ -1,0 +1,21 @@
+.widgetAvatar button {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.labelInputFile {
+  padding: 5px !important;
+  cursor: pointer;
+}
+.previewAvatar img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  padding: 2px;
+  border: 1px solid var(--grayColor);
+}
+@media (max-width: 767px){
+  .widgetAvatar {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+}

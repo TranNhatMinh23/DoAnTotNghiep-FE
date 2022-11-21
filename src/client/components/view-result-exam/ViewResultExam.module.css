@@ -1,0 +1,107 @@
+.reports {
+  width: 80%;
+  margin: 20px auto;
+}
+@media (max-width: 767px) {
+  .reports {
+    width: 100%;
+  }
+}
+.titleReports {
+  text-align: center;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+.titleReports p {
+  margin-bottom: 5px;
+}
+.titleReports .nameOfExam {
+  color: var(--primaryColor);
+  font-weight: 500;
+}
+.scoreReport {
+  border: 2px solid var(--primaryColor);
+  border-radius: 10px;
+  display: table;
+  width: 100%;
+  position: relative;
+}
+.scoreReport>div {
+  border-right: 2px solid var(--primaryColor);
+  width: 33%;
+  display: table-cell;
+  padding: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+.scoreReport>div:nth-child(3){
+  border: none;
+}
+.scoreWrapper:first-child {
+  margin-bottom: 30px;
+}
+.scoreWrapper label {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 18px;
+}
+.scoreWrapper p {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid var(--primaryColor);
+  border-radius: 50%;
+  vertical-align: middle;
+  font-size: 25px;
+  font-weight: 500;
+  color: var(--primaryColor);
+  line-height: 80px;
+}
+.infoParticipant li{
+  display: block;
+  list-style: none;
+  margin-bottom: 20px;
+  font-size: 17px;
+}
+.infoParticipant li i{ 
+  font-size: 20px;
+  margin-right: 10px;
+  color: var(--primaryColor); 
+}
+.infoParticipant .userInfoImage{
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  margin-bottom: 5px;
+}
+.testReport {
+  margin: 20px;
+  text-align: center;
+}
+.testReport button {
+  margin: 0 10px;
+  text-transform: capitalize;
+  background: var(--primaryColor);
+}
+.testReport span{
+  margin: 0 5px;
+}
+.testReport i{
+  margin-right: 5px;
+}
+.infoParticipant img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  padding: 2px;
+  border: 1px solid var(--grayColor);
+}
+.levelDescription {
+  margin: 20px 0;
+}
+.levelDescription p {
+  font-weight: 500;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
