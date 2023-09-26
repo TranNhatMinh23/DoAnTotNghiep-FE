@@ -13,7 +13,7 @@
     "i18next": "^17.2.0",
     "i18next-browser-languagedetector": "^4.0.0",
     "jquery": "^3.4.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "path": "^0.12.7",
     "popper.js": "^1.15.0",
     "prop-types": "^15.7.2",
